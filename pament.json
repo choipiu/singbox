@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "type": "domain_keyword",
       "domain_keyword": [
         "stripe",
         "paypal",
