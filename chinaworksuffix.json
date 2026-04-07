@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "rules": [
     {
       "domain_suffix": [
@@ -11,7 +11,7 @@
         "hyzhfly.com",
         "etravelb2b.com",
         "fliggy.com",
-        "jtuair.cn",
+        "jtuair.com",
         "hkexpress.com",
         "ieterm.com",
         "jtjp365.com",
