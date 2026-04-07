@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "amadeus",
+        "amadeusit",
+        "sabre",
+        "sabretravel",
+        "sabresonic",
+        "travelport",
+        "galileo",
+        "apollo",
+        "worldspan",
+      ]
+    }
+  ]
+}
