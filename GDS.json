@@ -12,17 +12,7 @@
         "galileo",
         "apollo",
         "worldspan"
-      ],
-      "outbound": "direct"
-    },
-    {
-      "process_name": [
-        "TravelSky",
-        "Apollo",
-        "Galileo",
-        "Smartpoint"
-      ],
-      "outbound": "direct"
+      ]
     }
   ]
 }
