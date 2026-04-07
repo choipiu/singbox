@@ -1,15 +1,25 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_keyword": [
-        "stripe",
-        "paypal",
-        "adyen",
-        "visa",
-        "mastercard",
-        "amex"
-      ]
-    }
-  ]
-}
+[
+  {
+    "type": "domain_suffix",
+    "domain_suffix": [
+      "stripe.com",
+      "paypal.com",
+      "adyen.com",
+      "visa.com",
+      "mastercard.com",
+      "americanexpress.com",
+      "amexnetwork.com"
+    ]
+  },
+  {
+    "type": "domain_keyword",
+    "domain_keyword": [
+      "stripe",
+      "paypal",
+      "adyen",
+      "visa",
+      "mastercard",
+      "amex"
+    ]
+  }
+]
