@@ -1,13 +1,15 @@
 {
   "version": 2,
   "rules": [
-    [
-      "stripe",
-      "paypal",
-      "adyen",
-      "visa",
-      "mastercard",
-      "amex"
-    ]
+    {
+      "domain_keyword": [
+        "stripe",
+        "paypal",
+        "adyen",
+        "visa",
+        "mastercard",
+        "amex"
+      ]
+    }
   ]
 }
