@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "flightroutes24.com",
+        "unififi.com",
+        "meiya.com",
+        "baosheng.com",
+        "8000yi.com",
+        "hyzhfly.com",
+        "etravelb2b.com",
+        "fliggy.com",
+        "jtuair.com",
+        "hkexpress.com",
+        "ieterm.com",
+        "jtjp365.com",
+        "travelsky.com",
+        "eterm.com",
+        "pkfare.com"
+      ]
+    }
+  ]
+}
