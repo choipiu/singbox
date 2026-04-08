@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev"
+      ],
+      "domain_suffix": [
+        "gemini.google"
+      ],
+      "ip_cidr": [
+        "0.0.0.0/20"
+      ]
+    }
+  ]
