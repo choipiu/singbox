@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev"
+      ],
+      "domain_suffix": [
+        "gemini.google",
+        "googleapis.com"
+      ]
+    }
+  ]
+}
