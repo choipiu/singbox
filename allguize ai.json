@@ -2,12 +2,173 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "ai.google.dev"
-      ],
       "domain_suffix": [
-        "gemini.google",
-        "googleapis.com"
+        // Google 系 AI
+        "ai.google.dev",
+        "gemini.google.com",
+        "googleapis.com",
+        "deepmind.com",
+        "bard.google.com",
+        "aistudio.google.com",
+        "generativeai.google",
+        "vertexai.google",
+        "goo.gle",
+
+        // OpenAI 系（ChatGPT、GPT-4o、DALL·E等）
+        "openai.com",
+        "chat.openai.com",
+        "api.openai.com",
+        "platform.openai.com",
+        "auth.openai.com",
+        "cdn.openai.com",
+        "chatgpt.com",
+        "oaiusercontent.com",
+
+        // Anthropic（Claude 3系列）
+        "anthropic.com",
+        "claude.ai",
+        "api.anthropic.com",
+        "console.anthropic.com",
+
+        // Microsoft 系 AI（Copilot、GPT-4o、Azure OpenAI）
+        "copilot.microsoft.com",
+        "bing.com/chat",
+        "api.bing.microsoft.com",
+        "azure.microsoft.com",
+        "azureopenai.com",
+        "openai.azure.com",
+        "microsoft.com/en-us/copilot",
+
+        // Meta 系 AI（Llama、Meta AI）
+        "meta.ai",
+        "llama.meta.com",
+        "ai.meta.com",
+        "platform.meta-ai.com",
+
+        // xAI（Elon Musk的Grok）
+        "x.ai",
+        "grok.x.ai",
+        "api.x.ai",
+
+        // Mistral AI
+        "mistral.ai",
+        "api.mistral.ai",
+        "console.mistral.ai",
+        "mistral.cloud",
+
+        // Cohere
+        "cohere.com",
+        "api.cohere.ai",
+        "dashboard.cohere.com",
+
+        // Perplexity AI
+        "perplexity.ai",
+        "api.perplexity.ai",
+        "labs.perplexity.ai",
+
+        // Groq
+        "groq.com",
+        "api.groq.com",
+        "console.groq.com",
+
+        // Character.AI
+        "character.ai",
+        "api.character.ai",
+        "cdn.character.ai",
+
+        // Runway ML（AI视频生成）
+        "runwayml.com",
+        "api.runwayml.com",
+        "app.runwayml.com",
+
+        // Midjourney
+        "midjourney.com",
+        "api.midjourney.com",
+        "cdn.midjourney.com",
+        "midjourney.storage.googleapis.com",
+
+        // Stability AI（Stable Diffusion）
+        "stability.ai",
+        "platform.stability.ai",
+        "dreamstudio.ai",
+        "stablediffusionweb.com",
+
+        // ElevenLabs（AI语音）
+        "elevenlabs.io",
+        "api.elevenlabs.io",
+        "cdn.elevenlabs.io",
+
+        // Notion AI
+        "notion.so",
+        "notion.ai",
+        "api.notion.so",
+
+        // Grammarly（AI写作）
+        "grammarly.com",
+        "api.grammarly.com",
+        "cdn.grammarly.com",
+
+        // Jasper AI
+        "jasper.ai",
+        "api.jasper.ai",
+        "app.jasper.ai",
+
+        // Copy.ai
+        "copy.ai",
+        "api.copy.ai",
+        "app.copy.ai",
+
+        // Writer AI
+        "writer.com",
+        "api.writer.com",
+        "app.writer.com",
+
+        // Adobe Firefly
+        "firefly.adobe.com",
+        "firefly-api.adobe.io",
+        "adobe.com",
+
+        // Canva Magic Write
+        "canva.com",
+        "api.canva.com",
+        "design.canva.com",
+
+        // Sora（OpenAI视频生成）
+        "sora.openai.com",
+        "sora.chatgpt.com",
+
+        // Gemini Advanced / Google One AI
+        "one.google.com",
+        "ai.google.com",
+
+        // 其他热门AI工具
+        "huggingface.co",
+        "replicate.com",
+        "together.ai",
+        "anyscale.com",
+        "databricks.com",
+        "langchain.com",
+        "pinecone.io",
+        "weaviate.io",
+        "chroma.com",
+        "qdrant.tech",
+        "milvus.io",
+        "llamaindex.ai",
+        "autogen.ai",
+        "langsmith.com",
+        "poe.com",
+        "chat.lmsys.org",
+        "hackerai.co",
+        "you.com",
+        "perplexity.ai",
+        "phind.com",
+        "metaphor.systems",
+        "kagi.com",
+        "brave.com/search",
+        "duckduckgo.com/?q=ai",
+        "startpage.com",
+        "qwant.com",
+        "mojeek.com"
       ]
     }
   ]
